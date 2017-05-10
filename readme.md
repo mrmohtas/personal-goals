@@ -22,7 +22,7 @@
 
 ### Things I'll Do in the Future:
 
-- [ ] Maintin a daily journal
+- [ ] Start and maintain a daily journal
 - [ ] Work on problems on [Project Euler](https://projecteuler.net/archives)
 - [ ] Rebuild my site
 - [ ] Build something cool with Arduino
