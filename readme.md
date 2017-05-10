@@ -1,5 +1,4 @@
 # Personal goals
----
 
 # Overarching Goals for 2017:
 1. 🖋️ Start writing articles to share and improve knowledge
@@ -15,6 +14,7 @@
 ### Things I'll do This Week:
 
 - [x] Set up personal goals repo 😉
+- [ ] Create project entry for [Drap and drop succulent garden](http://codepen.io/natacoops/post/drag-and-drop-succulent-garden-project-outline)
 - [ ] Set up finances spreadsheet
 - [ ] Triage my podcast subs
 - [ ] Plan the outstanding work for site update
@@ -23,6 +23,7 @@
 ### Things I'll Do in the Future:
 
 - [ ] Maintin a daily journal
+- [ ] Work on problems on [Project Euler](https://projecteuler.net/archives)
 - [ ] Rebuild my site
 - [ ] Build something cool with Arduino
 - [ ] Make an electron app
