@@ -1,11 +1,11 @@
 # Personal goals
 
 # Overarching Goals for 2017:
-1. 🖋️ Start writing articles to share and improve knowledge
-2. ⏲️ Improve productivity
-2. 👨‍💻 Advance my expertise in JavaScript
-3. 📖 Get more involved in contributing to OSS
-4. 💪🏼 Start Exercising Again
+🖋️ Start writing articles to share and improve knowledge  
+⏲️ Improve productivity  
+👨‍💻 Advance my expertise in JavaScript  
+📖 Get more involved in contributing to OSS  
+💪🏼 Start Exercising Again
 
 # 08 May 2017
 
